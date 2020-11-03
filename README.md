@@ -18,12 +18,12 @@ Accelerator를 구성하는 SW 모듈로 Listener로 부터 수신한 사용�
 ### 글로벌 게임 가속 서비스
 글로벌 게임 서비스 이용자가 원격의 게임서버에 접속할때, 이용자가 접속하는 지역에 따라 서비스 품질의 편차가 발생할 수 있습니다. 이러한, 글로벌 서비스 이용자의 지역별 서비스 품질 차이는 게임 이용자간 불공정한 서비스 환경을 만듭니다. G-Express가 제공하는 글로벌 가속 서비스는 글로벌 서비스 이용자 접속지역과 게임서버 간 전용망을 통한 가속 서비스로 글로벌 게임 이용자간 균등한 서비스를 보장해 줍니다. 
 
-![Global Game service](https://gexpressman.github.io/blob/master/images/Intro_usage_gameservice.png)
+![Global Game service](https://gexpressman.github.io/images/Intro_usage_gameservice.png)
 
 ### 스마트 오피스 가속 서비스
 글로벌 기업에서 운영하고 있는 온프로미스 오피스를 클라우드 기반의 스마트 오피스로 변경할 경우 글로벌 지역 사무소는 여전히 본사와의 전용망을 통한 스마트 오피스 서비스 접속으로 인한 서비스 품질저하가 빈번하게 일어나고 있습니다. 이 경우 글로벌 지역 사무소와 스마트 오피스 서비스 지역간 글로벌 가속 서비스를 개설하여 글로벌 지역 사무소의 스마트 오피스 서비스 품질을 대폭 개선할 수 있습니다. 
 
-![Smart Office service](https://gexpressman.github.io/blob/master/images/Intro_usage_smartoffice.png)
+![Smart Office service](https://gexpressman.github.io/images/Intro_usage_smartoffice.png)
 
 ## THE COPYRIGHT                                                        |
 The copyright of this site is under the copyright of Solbox Inc.
