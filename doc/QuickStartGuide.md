@@ -22,10 +22,11 @@ sort: 1
 ![Quick Start Guide](https://gexpressman.github.io/images/QuickStart_Wizard_exec.png)
 
 ## Accelerator 설정.
-* Accelerator 생성을 위해 이름을 정의하고 서비스 제공 최대 데이터량을 정의합니다.  
-  - Accelerator의 이름을 설정합니다.
-  - 글로벌 가속 서비스를 이용하여 서비스할 한달간 최대 데이터 사용량을 설정합니다. 고객은 설정한 데이터 사용량을 초과하여 사용할 수 없으며, 사용량 변경이 필요할 경우 데이터 사용량을 수정할 수 있습니다.
-  - 'Next' 버튼을 클릭합니다.
+* Accelerator 생성을 위해 이름을 정의하고 서비스 제공 최대 데이터량을 정의합니다.
+
+a. Accelerator의 이름을 설정합니다.
+b. 글로벌 가속 서비스를 이용하여 서비스할 한달간 최대 데이터 사용량을 설정합니다. 고객은 설정한 데이터 사용량을 초과하여 사용할 수 없으며, 사용량 변경이 필요할 경우 데이터 사용량을 수정할 수 있습니다.
+c. 'Next' 버튼을 클릭합니다.
 
 ![Quick Start Guide](https://gexpressman.github.io/images/QuickStart_Wizard_Accelerator.png)
   
