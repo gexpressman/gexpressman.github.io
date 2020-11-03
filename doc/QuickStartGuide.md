@@ -13,7 +13,8 @@ sort: 1
 3. 인터넷 어플리케이션 서비스를 제공하는 Backend Server가 있는 지역에 Endpoint를 설정합니다.
 4. 인터넷 어플리케이션 서비스를 제공하는 Backend Server(오리진서버) 정보를 설정합니다.    
 
-#
+##   
+
 상기 글로벌 가속 서비스를 제공하는 Accelerator를 생성하기 위한 서비스 개설 Wizard를 제공하며 설정 방법은 아래와 같습니다.
 
 1. Global Accelerator 메뉴에서 'Create Accelerator'를 클릭하여 Accelerator 생성 Wizard를 실행 시킵니다. 
