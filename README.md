@@ -1,35 +1,13 @@
-# starter-slim
+# G-Express 서비스란?
 
-1. [Generate with the same files and folders](https://github.com/rundocs/starter-slim/generate) from this repository
-2. Set up your GitHub Pages to source(`/`)
-3. Now you can view your documentation in your site
+G-Express 서비스는 고객이 운영하는 인터넷 어플리케이션 서비스의 글로벌 이용자에게 전용망 기반 고품질 가속서비스를 제공하는 글로벌 가속 서비스 입니다. 이를 통해 인터넷 어플리케이션 서비스의 패킷 손실과 서비스 전송 지연을 최소화 하고 사용자 경험을 향상 시킵니다.
 
-## site.pages
+![G-Express Service Concept](https://gexpressman.github.io/images/Intro_gex_concept.png)
 
-<!-- prettier-ignore-start -->
+## G-Express Service Portal
+G-Express 서비스 개설을 위해서 아래의 사이트를 방분하시길 바랍니다.
 
-| source          | link                                                           |
-| --------------- | -------------------------------------------------------------- |
-{% for page in site.pages -%}
-| {{ page.path }} | [{{ page.url | relative_url }}]({{ page.url | relative_url }}) |
-{% endfor %}
+https://gexpress.solbox.com
 
-<!-- prettier-ignore-end -->
-
-## Documents
-
-https://jekyll-rtd-theme.rundocs.io
-
-## Local debug
-
-```sh
-gem install jekyll bundler
-
-bundle install
-
-JEKYLL_GITHUB_TOKEN=blank PAGES_API_URL=http://0.0.0.0 bundle exec jekyll server --livereload
-```
-
-## The license
-
-The theme is available as open source under the terms of the MIT License
+## THE COPYRIGHT                                                        |
+The copyright of this site is under the copyright of Solbox Inc.
