@@ -2,7 +2,7 @@
 
 G-Express 서비스는 고객이 운영하는 인터넷 어플리케이션 서비스의 글로벌 이용자에게 전용망 기반 고품질 가속서비스를 제공하는 글로벌 가속 서비스 입니다. 이를 통해 인터넷 어플리케이션 서비스의 패킷 손실과 서비스 전송 지연을 최소화 하고 사용자 경험을 향상 시킵니다.
 
-![G-Express Service Concept](https://gexpressman.github.io/images/Intro_gex_concept.png)
+[![G-Express Service Concept](https://gexpressman.github.io/images/Intro_gex_concept.png)](https://gexpress.solbox.com)<br>
 [G-Express Service Pages](https://gexpress.solbox.com)
 
 ## 시스템 구성
@@ -25,5 +25,3 @@ Accelerator를 구성하는 SW 모듈로 Listener로 부터 수신한 사용�
 
 ![Smart Office service](https://gexpressman.github.io/images/Intro_usage_smartoffice.png)
 
-## THE COPYRIGHT                                                        |
-The copyright of this site is under the copyright of Solbox Inc.
