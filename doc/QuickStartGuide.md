@@ -4,7 +4,7 @@ sort: 1
 
 # Quick Start Guide
 
-![Quick Start Guide](https://gexpressman.github.io/images/QuickStart_guide.png)
+![Quick Start Guide](/images/QuickStart_guide.png)
 
 고객이 목적 서비스 지역에서 인터넷 어플리케이션 서비스의 품질을 개선하기 위한 글로벌 가속 서비스 개설 절차는 다음과 같습니다.
 
@@ -20,7 +20,7 @@ sort: 1
 ## Accelerator 설정 Wizard 시작
 * Global Accelerator 메뉴에서 'Create Accelerator'를 클릭하여 Accelerator 생성 Wizard를 실행 시킵니다.
 
-![Quick Start Guide](https://gexpressman.github.io/images/QuickStart_Wizard_exec.png)
+![Accelerator 설정시작](/images/QuickStart_Wizard_exec.png)
 
 ## Accelerator 설정.
 * Accelerator 생성을 위해 이름을 정의하고 서비스 제공 최대 데이터량을 정의합니다.
@@ -32,7 +32,7 @@ b. 글로벌 가속 서비스를 이용하여 서비스할 한달간 최대 데�
 c. 'Next' 버튼을 클릭합니다.
 ```
 
-![Quick Start Guide](https://gexpressman.github.io/images/QuickStart_Wizard_Accelerator.png)
+![Accelerator 설정화면](/images/QuickStart_Wizard_Accelerator.png)
   
 ## Listener 설정.
 
@@ -46,7 +46,7 @@ d. 고객의 인터넷 어플리케이션 서비스를 위해 사용하는 서�
 e. 'Next' 버튼을 클릭합니다. 
 ```
 
-![Quick Start Guide](https://gexpressman.github.io/images/QuickStart_Wizard_Listener.png)
+![Listener 설정화면](/images/QuickStart_Wizard_Listener.png)
 
 ## Endpoint 및 Backend Server 설정.
 
@@ -61,12 +61,12 @@ d. 고객의 인터넷 어플리케이션 서비스를 제공하고 있는 Backe
 e. 'Creater Accelerator' 버튼을 클릭하여 Accelerator 생성을 완료합니다.
 ```
 
-![Quick Start Guide](https://gexpressman.github.io/images/QuickStart_Wizard_Endpoint.png)
+![Endpoint 및 Backend Server 설정화면](/images/QuickStart_Wizard_Endpoint.png)
 
 ## 고객의 Accelerator IP 등록
 
 * End user가 인터넷 어플리케이션 서비스 접속 시 Accelerator의 Static IP address로 접속할 수 있도록 고객의 DNS 등을 설정 합니다. 고객의 인터넷 어플리케이션 서비스 제공 방법에 따라 사용자의 요청을 Accelerator로 보낼 수 있도록 설정이 필요합니다.
 
-![Quick Start Guide](https://gexpressman.github.io/images/QuickStart_Wizard_Last.png)
+![Accelerator IP 확인 화면](/images/QuickStart_Wizard_Last.png)
 
 
