@@ -12,8 +12,7 @@ sort: 2
 
 Accelerator name, IP, Region으로 검색하실 수 있습니다.
 
-#### 제공 항목
-
+**제공 항목**
 
 | 제공항목  | 설명  |
 |---|---|
@@ -53,7 +52,7 @@ Accelerator name, IP, Region으로 검색하실 수 있습니다.
 | Endpoint Region  | Endpoint가 생성된 물리적 위치 정보입니다.  |
 | Status  | 가속서비스에 사용되는 Listener의 상태입니다  |
 
-### Accelerator 수정
+## Accelerator 수정
 
 ![Accelerator 수정하기](/images/Accelerator_List_Edit.png)
 
@@ -63,7 +62,7 @@ Accelerator name, IP, Region으로 검색하실 수 있습니다.
 | Bandwidth Cap.  | 글로벌 가속 서비스를 이용하여 서비스 할 한달간 최대 데이터 사용량을 설정합니다.<br> 설정한 데이터 사용량을 초과하여 사용할 수 없으며, 사용량을 수정할 수 있습니다.<br> 사용량은 최소 2Gbps에서 최대 10Gbps까지 제공됩니다.  |
 | Enabled  | 글로벌 가속 서비스를 활성화 또는 비활성화 합니다. 가속 서비스를 삭제하려면 비활성화로 설정해야 합니다.<br> 가속 서비스가 Off상태여도 Accelerator를 삭제하기 전까지 과금은 발생됩니다.  |
 
-### Accelerator 삭제
+## Accelerator 삭제
 
 ![Accelerator 수정하기](/images/Accelerator_List_Delete.png)
 
