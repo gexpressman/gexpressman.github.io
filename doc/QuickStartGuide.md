@@ -36,7 +36,7 @@ sort: 1
   
 ## Listener 설정.
 
-* End user가 접속하는 목적 서비스 지역에 Accelerator의 Listener를 설정합니다. ( Listener 설정 참조. )
+* End user가 접속하는 목적 서비스 지역에 Accelerator의 Listener를 설정합니다. ( [Listener 설정 참조.](/doc/Listener.html#listener-수정) )
 
 > a. Listener의 이름을 설정합니다.<br>
 > b. Listener를 생성할 물리적 위치인 Listener region을 선택합니다.<br>
@@ -48,7 +48,7 @@ sort: 1
 
 ## Endpoint 및 Backend Server 설정.
 
-* 인터넷 어플리케이션 서비스를 제공하는 Backend Server가 있는 지역에 Endpoint와 Backend Server(오리진서버) 정보를 설정합니다. ( Endpoint 설정 및 Backend Server 설정 참조.  )
+* 인터넷 어플리케이션 서비스를 제공하는 Backend Server가 있는 지역에 Endpoint와 Backend Server(오리진서버) 정보를 설정합니다. ( [Endpoint 설정](/doc/Endpoint.html#endpoint-수정) 및 [Backend Server 설정 참조.](/doc/Endpoint.html#backend-server-수정)  )
 
 > a. Endpoint의 이름을 설정합니다.<br>
 > b. Endpoint를 생성할 물리적 위치인 Endpoint region을 선택합니다.<br>
